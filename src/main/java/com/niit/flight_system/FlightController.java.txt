@@ -1,6 +1,6 @@
 package com.niit.flight-system;
 
-import org springframework.stereotype.Controller;
+importTT org springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import java.util.Arrays;
